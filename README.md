@@ -8,3 +8,4 @@
 6.  [283	Move Zeroes](https://leetcode.com/problems/move-zeroes/)&nbsp;&nbsp;&nbsp;&nbsp;[题解](https://github.com/QuoniamYIF/leetcode-javascript-/issues/6)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2015/10/28
 7.  [226	Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)&nbsp;&nbsp;&nbsp;&nbsp;[题解](https://github.com/QuoniamYIF/leetcode-javascript-/issues/7)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2015/10/28
 8.  [217	Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)&nbsp;&nbsp;&nbsp;&nbsp;[题解](https://github.com/QuoniamYIF/leetcode-javascript-/issues/8)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2015/10/28
+9.  [169	Majority Element/](https://leetcode.com/problems/majority-element/)&nbsp;&nbsp;&nbsp;&nbsp;[题解](https://github.com/QuoniamYIF/leetcode-javascript-/issues/9)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2015/11/07
