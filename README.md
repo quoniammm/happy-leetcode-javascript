@@ -10,3 +10,4 @@
 8.  [217	Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)&nbsp;&nbsp;&nbsp;&nbsp;[题解](https://github.com/QuoniamYIF/leetcode-javascript-/issues/8)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2015/10/28
 9.  [169	Majority Element](https://leetcode.com/problems/majority-element/)&nbsp;&nbsp;&nbsp;&nbsp;[题解](https://github.com/QuoniamYIF/leetcode-javascript-/issues/9)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2015/11/07
 10. [206	Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)&nbsp;&nbsp;&nbsp;&nbsp;[题解](https://github.com/QuoniamYIF/leetcode-javascript-/issues/10)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2015/11/07
+11. [202	Happy Number](https://leetcode.com/problems/happy-number/)&nbsp;&nbsp;&nbsp;&nbsp;[题解](https://github.com/QuoniamYIF/leetcode-javascript-/issues/11)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2015/11/09
